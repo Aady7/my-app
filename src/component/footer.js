@@ -1,12 +1,12 @@
 const Footer=()=>{
     return(
-    <div className="pt-2 pb-2 bg-black text-white flex lg:flex-row md: flex-row flex-col justify-between pl-1 pr-1 gap-4 h-full ">
+    <div className="pt-2 pb-12 bg-black text-white flex lg:flex-row md: flex-row flex-col justify-between pl-1 pr-1 gap-4 h-full ">
     
     <div className="flex flex-col text-left pt-9  ">
-    <div className="text-4xl font-bold pt-2">
+    <div className="text-4xl font-bold pl-2">
         Features
     </div>
-    <div className="text-sm font-bold pt-2  ">
+    <div className="text-sm font-bold pt-2 pl-2  ">
     edbcersjbvurhbirthbitbhnerbflaurgerubverbrar
 
     </div>

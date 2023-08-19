@@ -1,3 +1,4 @@
+import Button from "./button"
 
 const Navbar=()=>{
     return(
@@ -35,6 +36,7 @@ const Navbar=()=>{
                     Resources
                   </a>
                 </li>
+               
               </ul>
             </div>
           </div>
