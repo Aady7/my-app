@@ -1,4 +1,4 @@
-#Created a fully responsive website for sellling your handmade crafts for sdg hackathon of COPS IIT BHU in 1.5 hr using html css reactjs tailwind javascript (untill second commit)
+#Created a fully responsive website for sellling your handmade crafts for sdg hackathon of COPS IIT BHU in 1.5 hr using html css reactjs tailwind javascript and deployed on vercel (untill second commit)
 
 # Getting Started with Create React App
 
